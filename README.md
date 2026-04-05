@@ -32,7 +32,8 @@
 
 
 ## 💡 Sample Output
----
+
+```
 Student Profile
 
 Name: Lavanya
@@ -44,7 +45,8 @@ Updated Profile
 add your favourite subjects: SQL, Python
 Updated subjects: SQL, Python, Excel, PowerBI
 
----
+```
+
 ## ▶️ How to Use
 
 * 📜 How to Run
